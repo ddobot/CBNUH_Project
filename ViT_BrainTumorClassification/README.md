@@ -1,4 +1,6 @@
 # CBNUH Medical AI Team Internship Project
+2022.12 - 2023.02 수습기간 동안 진행한 AI project</br>
+
 ## Brain Tumor Classification using Vision Transformer
 
 ### Data
